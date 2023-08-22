@@ -10,8 +10,6 @@
 
 📩 **Email**: chonchayaofficial1@gmail.com<br>
               chonchaya.chi@student.mahidol.ac.th
-  
-📞 **Phone number** 0816754411
 
 🏥 **MY EXPERIENCES**<br>
 REGISTERED NURSE PRIVATE INPATIENT DIVISION<br>
