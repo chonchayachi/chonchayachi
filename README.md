@@ -22,6 +22,7 @@ Jul 2021 - Sep 2021
 
 Wishing you a wonderful day ahead!
 
+![cute-kitty](https://github.com/chonchayachi/chonchayachi/assets/142766067/6a93f96e-c255-4119-ac7c-9ebec49c0919)
 
 <!---
 chonchayachi/chonchayachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
