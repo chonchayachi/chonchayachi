@@ -12,15 +12,16 @@
               chonchaya.chi@student.mahidol.ac.th
 
 <h3>🏥 MY EXPERIENCES</h3><br>
-REGISTERED NURSE PRIVATE INPATIENT DIVISION<br>
+
+**REGISTERED NURSE PRIVATE INPATIENT DIVISION**<br>
 taking care of pre and post surgery operation patients and holistic care starting at age 16 to the end of life for example Neurosurgery, Hepatic and pancreatic surgery, Orthopedics surgery etc.<br>
 Jul 2020 - Aug 2023<br>
 
-REGISTERED NURSE INFECTION CONTROL MEDICINE DIVISION<br>
+**REGISTERED NURSE INFECTION CONTROL MEDICINE DIVISION**<br>
 taking care of Covid-19 isolation patients in adult by medicine, ventilator and palliative care<br>
 Jul 2021 - Sep 2021
 
-Wishing you a wonderful day ahead!
+<h4>⭐️ Wishing you a wonderful day ahead! ✨ </h4>
 
 ![cute-kitty](https://github.com/chonchayachi/chonchayachi/assets/142766067/6a93f96e-c255-4119-ac7c-9ebec49c0919)
 
